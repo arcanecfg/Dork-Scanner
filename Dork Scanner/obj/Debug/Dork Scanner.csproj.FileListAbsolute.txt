@@ -1,0 +1,15 @@
+C:\Users\Arcanecfg\AppData\Local\Temporary Projects\Dork Scanner\bin\Debug\Dork Scanner.exe.config
+C:\Users\Arcanecfg\AppData\Local\Temporary Projects\Dork Scanner\bin\Debug\Dork Scanner.exe
+C:\Users\Arcanecfg\AppData\Local\Temporary Projects\Dork Scanner\bin\Debug\Dork Scanner.pdb
+C:\Users\Arcanecfg\AppData\Local\Temporary Projects\Dork Scanner\obj\Debug\Dork Scanner.csprojResolveAssemblyReference.cache
+C:\Users\Arcanecfg\AppData\Local\Temporary Projects\Dork Scanner\obj\Debug\Dork Scanner.exe
+C:\Users\Arcanecfg\AppData\Local\Temporary Projects\Dork Scanner\obj\Debug\Dork Scanner.pdb
+E:\C#-Projects\Dork Scanner\Dork Scanner\obj\Debug\Dork Scanner.csprojResolveAssemblyReference.cache
+E:\C#-Projects\Dork Scanner\Dork Scanner\bin\Debug\Arcanecfg Dork Scanner.exe.config
+E:\C#-Projects\Dork Scanner\Dork Scanner\bin\Debug\Arcanecfg Dork Scanner.exe
+E:\C#-Projects\Dork Scanner\Dork Scanner\bin\Debug\Arcanecfg Dork Scanner.pdb
+E:\C#-Projects\Dork Scanner\Dork Scanner\obj\Debug\Arcanecfg Dork Scanner.exe
+E:\C#-Projects\Dork Scanner\Dork Scanner\obj\Debug\Arcanecfg Dork Scanner.pdb
+E:\C#-Projects\Dork Scanner\Dork-Scanner\Dork Scanner\bin\Debug\Arcanecfg Dork Scanner.exe.config
+E:\C#-Projects\Dork Scanner\Dork-Scanner\Dork Scanner\obj\Debug\Arcanecfg Dork Scanner.exe
+E:\C#-Projects\Dork Scanner\Dork-Scanner\Dork Scanner\obj\Debug\Arcanecfg Dork Scanner.pdb
